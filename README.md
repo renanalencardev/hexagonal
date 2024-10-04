@@ -2,6 +2,10 @@
 
 Este projeto faz parte de um curso de **Arquitetura Hexagonal** e utiliza diversas tecnologias e ferramentas para criar uma aplicação Java robusta e escalável.
 
+## Diagrama do Projeto
+![Texto Alternativo](Diagrama%20do%20projeto.png)
+
+
 ## Tecnologias Utilizadas
 
 - **Java 17**: Linguagem de programação principal.
@@ -12,7 +16,7 @@ Este projeto faz parte de um curso de **Arquitetura Hexagonal** e utiliza divers
 - **Apache Kafka**: Plataforma de streaming de eventos distribuídos.
 - **OpenFeign**: Cliente HTTP para consumir APIs de forma simples.
 - **Bean Validation**: Validação de objetos usando anotações.
-
+- **Docker**: Criação e manipulação de containers.
 ## Arquitetura
 
 O projeto segue os princípios da **Arquitetura Hexagonal**, que visa:
